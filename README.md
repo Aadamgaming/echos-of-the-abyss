@@ -8,5 +8,7 @@ Echoes of the Abyss is an intense psychological horror game where players naviga
 
 With frequent jumpscares, disturbing visuals such as a dead body silhouette, and chilling soundscapes, Echoes of the Abyss is designed to evoke dread and terror. The game contains content not suitable for children, offering an experience that will leave even seasoned horror fans on edge.
 
-PEGI 16
+
+![PEGI 16](./PEGI.png)
+
 
